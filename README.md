@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Dominguez
 - 👀 I have a Bachlor's of Science in Software Engineering from Kennesaw State University
-- 🌱 I’m currently learning front-end development through The Odin Project!
+- 🌱 I’m currently learning front-end development through The Odin Project & Scrimba
 
 
 
